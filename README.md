@@ -43,7 +43,7 @@ This Python script allows you to scrape cryptocurrency data from [Crypto.com](ht
 
 3. The default number of page numbers to scrape is 3. You  can change the page number in line 54.
 
-4. Check the Excel(TopCryptos) for the details of cryptocurrencies.
+4. Check the Excel(2706) for the details of cryptocurrencies.
 
 ## Configuration
 
