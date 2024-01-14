@@ -49,15 +49,10 @@ This Python script allows you to scrape cryptocurrency data from [Crypto.com](ht
 
 - The script assumes that the cryptocurrency names are located within specific HTML elements. Modify the script if the website structure changes.
 
-## Disclaimer
-
-This script is provided for educational purposes and should be used responsibly. Review and comply with [Crypto.com's terms of service](https://crypto.com/en/pages/website-terms).
-
 ## Contributing
 
 If you find a bug, have suggestions for improvements, or would like to add new features, feel free to open an issue or create a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
+## Author
+   nrnavaneet
 
